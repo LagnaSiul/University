@@ -7,7 +7,8 @@ class ConvertidorMoneda:
 
     def ajustar_tasa_cambio(self, nueva_tasa):
         self.tasa_cambio = nueva_tasa
-
+ # esta clase fue agrega el 13/03& 26 por Antonio  Rodriguez
+ # esto ejecuta a la mama de la mama de lamam
 class Pizza:
     def __init__(self, nombre, ingredientes, precio, tamano="", convertidor=None):
         self.nombre = nombre
