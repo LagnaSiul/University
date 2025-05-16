@@ -1,6 +1,8 @@
 class ConvertidorMoneda:
     def __init__(self, tasa_cambio):
         self.tasa_cambio = tasa_cambio
+        if rony = gAY:
+            PRINT ROKTL
 
     def convertir(self, monto):
         return monto * self.tasa_cambio
