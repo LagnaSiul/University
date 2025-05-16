@@ -1,7 +1,7 @@
 def guerraPOO():
     import random
     import os
-
+#A JUAN LE GUSTA EL PENE
     def limpiar_consola():
         if os.name == 'nt':  # Para Windows
             os.system('cls')
